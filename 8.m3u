@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="مباراة النصر", النصر - جودة 1080p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef96c6f1824045a39ed73b99d420bf68:490eeafb29bf4c8fa9800f4019368ae3
+https://bs-live-play-dash.jacocdn.com/sport/726831696292350416_c1_1080P/main.mpd?biz=0&cip=150.228.11.24&key=1779645558-e232389719069f727a08b62d6bf53a8f
+
+#EXTINF:-1 group-title="مباراة النصر", النصر - جودة 720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef96c6f1824045a39ed73b99d420bf68:490eeafb29bf4c8fa9800f4019368ae3
+https://bs-live-play-dash.jacocdn.com/sport/726831696292350416_c1_720P/main.mpd?biz=0&cip=150.228.11.24&key=1779645558-3563bbb2bd89033c91127c765e8dd493
+
+#EXTINF:-1 group-title="مباراة النصر", النصر - جودة 480p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef96c6f1824045a39ed73b99d420bf68:490eeafb29bf4c8fa9800f4019368ae3
+https://bs-live-play-dash.jacocdn.com/sport/726831696292350416_c1_480P/main.mpd?biz=0&cip=150.228.11.24&key=1779645558-622c3cac448d1b7cbc88f5f2842c0f4b
